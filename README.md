@@ -1,14 +1,14 @@
 # hello-world
-Node JS Master Class Homework 1 (https://pirple.thinkific.com/courses/the-nodejs-master-class)
+Node JS Master Class Homework 1 (https://pirple.thinkific.com/courses/the-nodejs-master-class)  
 
-To Run:
+This is a very simple hello-world project written in javascript for NodeJS.
 
-from root of project 
-run node index.js
+###To Run:
+run the following command from root of project   
+*node app/index.js*
 
-To Test:
-curl localhost:3005/hello
-
-Also available
-curl localhost:3005/ping
-curl localhost:3005/anypath
+###To Test:
+run the following from a terminal
+* *curl localhost:3005/hello*
+* *curl localhost:3005/ping*
+* *curl localhost:3005/anypath*
